@@ -1,9 +1,5 @@
----
-title: The Deep Fij Development Blog
----
 
-
-###Starting Development for the 2019 Season
+### Starting Development for the 2019 Season
 
 ## August 6, 2018 -- 95 days until the first tip odf the 2019 season
 Well the site is undergoing for its usual annual update.  With 95 dfays until the first tip, one would hope I can beat in into shape for the start of the season.
