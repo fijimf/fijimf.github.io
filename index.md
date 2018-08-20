@@ -32,4 +32,9 @@ Ok, more React stuff -- porting over the Sign In/Sign Out/Sign Up/Forgot Passwor
 
 Regardless, progress is being made.
 
+## August 20, 2018
+### 81 days until the first tip
 
+Yikes -- there is no way I am going to finish in time.
+
+That being said, a lot of things have come together.  I have bent Webpack to my will, largely.  My RTeact components seem to be behaving.  ANd my build is almost perfict.  I'm unable to get the Play Run Hook to trigger ```webpack -watch```. Ny current workaround is to run Play in one window and webpack -watch in another.
