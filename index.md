@@ -37,4 +37,14 @@ Regardless, progress is being made.
 
 Yikes -- there is no way I am going to finish in time.
 
-That being said, a lot of things have come together.  I have bent Webpack to my will, largely.  My RTeact components seem to be behaving.  ANd my build is almost perfict.  I'm unable to get the Play Run Hook to trigger ```webpack -watch```. Ny current workaround is to run Play in one window and webpack -watch in another.
+That being said, a lot of things have come together.  I have bent Webpack to my will, largely.  My React components seem to be behaving.  ANd my build is almost perfict.  I'm unable to get the Play Run Hook to trigger ```webpack -watch```. Ny current workaround is to run Play in one window and webpack -watch in another.
+
+
+## August 26, 2018
+### 75 days until the first tip
+
+Hmmm. Very close to scrapping React and just going back to straight twirl & Play!
+
+I'm just seing no gain from using React vs. the hoops I need to jump through.
+
+Also, this blog of short posts as I develop is not proving to be useful with respect to informing the world or gatherig my thoughts.  Still hoping that the countdown clock I';m imposing on mysel helps my productivty.
