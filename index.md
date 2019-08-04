@@ -7,3 +7,7 @@ Yikes.  As per usual I'm completely unready for the upcoming season.  While last
 
 99 days.
 
+## August 4, 2019
+### 95 days until the first tip-off of the 2020 season
+
+Using cats-effect and doobie for DB access was relatively straightforward.  Just a lot of grinding to be done.  Also Dockerizing looks to be straightforward as well. Good times.  Some details to iron out though, but from a POC point of view it's working.  Time to do the work.
